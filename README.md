@@ -7,9 +7,7 @@
 
 <img src="https://github.com/AmandaLuiza/AmandaLuiza/blob/main/dev_2.jpg" alt ="Computer img">
 
-- 🌱 Estudando desenvolvimento web full-stack
-- 😄 Pronomes: ele/dele
-- 💻 Software developer.
+- 🌱 Studying full-stack web development
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericriscod&label=Profile%20views&color=0e75b6&style=flat" alt="EricrisRossato" /> </p>
 
