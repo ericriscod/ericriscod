@@ -5,7 +5,7 @@
 <img  src="https://developers.giphy.com/branch/master/static/api-c99e353f761d318322c853c03ebcf21b.gif" alt="Computer"> 
 -->
 
-<img src="https://github.com/AmandaLuiza/AmandaLuiza/blob/main/dev_2.jpg" alt ="Computer img">
+<img src="[https://github.com/AmandaLuiza/AmandaLuiza/blob/main/dev_2.jpg](https://camo.githubusercontent.com/3dbc97cb2110081819c37cdbd7e3f64fe5326d0eb4da6741f23126970950a8c9/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f34312f37652f62652f34313765626565393836616563343136323932373862316530346366626665392e676966)" alt ="Computer img">
 
 - 🌱 Studying full-stack web development
 
