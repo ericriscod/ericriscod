@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=ffffff&center=true&vCenter=true&width=940&height=50&lines=Hello👋🏽,+I'm+Ericris+Rossato!" align="middle" alt="I'm Ericris Rossato! animated typed out">
+
 
 <img  src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/borderseperator.gif">
 
@@ -27,14 +27,13 @@
     <img align="center" title="Angular" alt="Angular" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg">
     <img align="center" title="MySQL" alt="MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img align="center" title="Figma" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
+    <img align="center" title="Godot" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/godot/godot-original.svg">
+    <img align="center" title="Firebase" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg">
+    <img align="center" title="Json" alt="Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/json/json-original.svg">   
+     
   </div><br>
   
  
-   <div>
-    <a href="https://github.com/ericriscod">
-      <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ericriscod&count_private=false&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-      <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ericriscod&theme=dracula&hide_border=false&&layout=compact"/>
-    </a>
-  </div>
+
  
  
