@@ -1,4 +1,4 @@
-
+<h1>Ericris Rossato</h1>
 
 <img  src="https://raw.githubusercontent.com/HyunCafe/HyunCafe/main/assests/borderseperator.gif">
 
@@ -8,7 +8,7 @@
 
 <img src="https://codinginfinite.com/wp-content/uploads/2018/12/0KXuX_V54FKpK-wsX.gif" alt ="Computer img">
 
-- 🌱 Studying full-stack web development
+- 🌱 Gamer developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ericriscod&label=Profile%20views&color=0e75b6&style=flat" alt="EricrisRossato" /> </p>
 
